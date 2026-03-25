@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Gustavo, sou formado em Gestão da Tecnologia da Informação pelo Centro Universitário Senac e atualmente estou cursando Sistemas de Informação. Sou apaixonado por tecnologia e estou dando meus primeiros passos no mundo da programação, sempre buscando aprender e evoluir um pouco mais a cada dia. Tenho experiência em gestão de serviços e projetos de TI, aplicando práticas como ITIL, COBIT e Scrum, além de possuir certificação CISCO em infraestrutura de TI. Agora, estou direcionando minha trajetória para o desenvolvimento, explorando novas tecnologias e fortalecendo minha base técnica como iniciante na área.
+Com uma base sólida em Gestão de TI e Infraestrutura (CISCO), dediquei anos entendendo como a tecnologia serve ao negócio através de frameworks como ITIL e Scrum. Atualmente, estou aprofundando meu conhecimento técnico como graduando em Sistemas de Informação, direcionando minha carreira para o desenvolvimento de software. No meu dia a dia, foco em dominar Java e SQL, transformando minha experiência em gerir serviços na arte de construí-los. Sou um eterno aprendiz, dedicado a evoluir de um especialista em infraestrutura para um desenvolvedor versátil e completo.
 
 ---
 
