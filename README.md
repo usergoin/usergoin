@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Com uma base sólida em Gestão de TI e Infraestrutura (CISCO), dediquei anos entendendo como a tecnologia serve ao negócio através de frameworks como ITIL e Scrum. Atualmente, estou aprofundando meu conhecimento técnico como graduando em Sistemas de Informação, direcionando minha carreira para o desenvolvimento de software. No meu dia a dia, foco em dominar Java e SQL, transformando minha experiência em gerir serviços na arte de construí-los. Sou um eterno aprendiz, dedicado a evoluir de um especialista em infraestrutura para um desenvolvedor versátil e completo.
-
+Tenho formação em Gestão de TI e certificação Cisco em infraestrutura. Atualmente, curso Sistemas de Informação, com foco no desenvolvimento de software. Estou aprendendo e praticando Java e SQL, buscando transformar meu conhecimento em gestão de serviços em habilidades para construir soluções eficientes. Sou dedicado ao aprendizado contínuo e interessado em crescer como desenvolvedor, explorando novas tecnologias e desafios.
 ---
 
 ### 📊 Estatísticas
