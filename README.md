@@ -3,6 +3,7 @@
 **`Desenvolvedor Junior`**
 
 Tenho formação em Gestão de TI e certificação Cisco em infraestrutura. Atualmente, curso Sistemas de Informação, com foco no desenvolvimento de software. Estou aprendendo e praticando Java e SQL, buscando transformar meu conhecimento em gestão de serviços em habilidades para construir soluções eficientes. Sou dedicado ao aprendizado contínuo e interessado em crescer como desenvolvedor, explorando novas tecnologias e desafios.
+
 ---
 
 ### 📊 Estatísticas
