@@ -1,14 +1,16 @@
-### **`Junior Developer`**
+### **`Software Developer Student`**
 
-I have a degree in IT Management and Cisco certification in infrastructure. Currently, I am studying Information Systems, focusing on software development. I am learning and practicing Java and SQL, seeking to transform my knowledge in service management into skills to build efficient solutions, exploring new technologies and challenges.
-
----
-
-Tenho formação em Gestão de TI e certificação Cisco em infraestrutura. Atualmente, curso Sistemas de Informação, com foco no desenvolvimento de software. Estou aprendendo e praticando Java e SQL, buscando transformar meu conhecimento em gestão de serviços em habilidades para construir soluções eficientes, explorando novas tecnologias e desafios.
+Information Systems student with a solid background in IT Management and Cisco Infrastructure. I am focused on mastering Java and SQL to build robust and scalable software. Driven by logic and a passion for turning complex ideas into functional code.
 
 ---
 
-### 📊 Estatísticas
+### Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,netbeans,idea,cisco)](https://skillicons.dev)
+
+---
+
+### Statistics
 
 <p>
   <img 
