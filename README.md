@@ -6,7 +6,7 @@ Information Systems student with a solid background in IT Management and Cisco I
 
 ### Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,netbeans,idea,cisco)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,idea)](https://skillicons.dev)
 
 ---
 
